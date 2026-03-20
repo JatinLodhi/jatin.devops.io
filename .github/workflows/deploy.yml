@@ -9,6 +9,7 @@ on:
       - main
   workflow_dispatch:  # allows manual trigger from GitHub UI
 
+  
 permissions:
   contents: read
   pages: write
